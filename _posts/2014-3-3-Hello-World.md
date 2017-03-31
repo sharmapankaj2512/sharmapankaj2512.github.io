@@ -1,10 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: Blog setup credits
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Thanks to @baznyc was able to setup my blog with ease. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Followed below mentioned references in serial order while setting up this blog.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
+https://github.com/jekyll/jekyll-seo-tag#usage
