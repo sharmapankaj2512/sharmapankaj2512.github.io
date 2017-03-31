@@ -10,3 +10,5 @@ Followed below mentioned references in given order while setting up this blog.
 
 [https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/](Bootstrap your blog using Jekyll and github pages)
 [https://github.com/jekyll/jekyll-seo-tag#usage](SEO for github pages)
+[https://prose.io](Online jekyll editor)
+[https://www.whatsmydns.net](DNS record update status)
