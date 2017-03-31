@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am a polyglot programmer and a clean code evengelist. For most part of my career I have worked as a backend developer on Java/Groovy/C#/Node stacks. I am particularly good at building scalable apps. I am passionate about distributed systems and functional programming.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sharmapankaj2512@gmail.com](sharmapankaj2512@gmail.com)
