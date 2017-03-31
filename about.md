@@ -7,7 +7,7 @@ published: true
 
 I am a polyglot programmer and a clean code evengelist.
 
-For most part of my career I have worked as a backend developer on _Java, Groovy, C# & Node_ stacks. I am particularly good at building scalable apps. 
+I am particularly good at building scalable apps. For most part of my career I have worked as a backend developer on _Java, Groovy, C# & Node_ stacks.
 
 ### Areas of interest
 
