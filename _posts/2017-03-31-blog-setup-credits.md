@@ -12,3 +12,4 @@ While setting up the website I followed these references in given order.
 - [SEO for github pages](https://github.com/jekyll/jekyll-seo-tag#usage)
 - [Online jekyll editor](https://prose.io)
 - [DNS record update propogation](https://www.whatsmydns.net)
+- [Request Google to crawl you website](http://stackoverflow.com/questions/9466360/how-to-request-google-to-re-crawl-my-website)
