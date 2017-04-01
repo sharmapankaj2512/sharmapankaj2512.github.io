@@ -2,7 +2,7 @@
 published: true
 ---
 
-Books and blogs that have influenced and helped me get better at building software.
+Books, blogs and podcasts that have influenced and helped me get better at building software.
 
 ### GIT
 
