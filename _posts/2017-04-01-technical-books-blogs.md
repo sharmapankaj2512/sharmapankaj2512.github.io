@@ -6,7 +6,7 @@ Books and blogs that have influenced and helped me get better at building softwa
 
 ### GIT
 
-- [Understanding GIT inside out](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
+- [The Git parable - understanding GIT inside out](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
 
 ### Distributed systems
 
