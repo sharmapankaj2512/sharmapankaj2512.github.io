@@ -4,7 +4,7 @@ title: Credits
 published: true
 ---
 
-Thanks to [@barrycnyc](https://twitter.com/barrycnyc), Jekyll & Github I was able to setup my website with ease. 
+Thanks to [@barrycnyc](https://twitter.com/barrycnyc), Jekyll & Github-Pages I was able to setup my website with ease. 
 
 While setting up the website I followed these references in given order. 
 
