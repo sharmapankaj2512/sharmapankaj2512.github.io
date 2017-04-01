@@ -1,7 +1,6 @@
 ---
 published: true
 ---
-## Technical Books and Blogs
 
 List of books and blogs that have influenced and helped me get better at building software.
 
