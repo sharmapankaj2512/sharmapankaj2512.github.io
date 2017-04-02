@@ -2,7 +2,7 @@
 published: true
 ---
 
-Books, blogs and podcasts that have influenced and helped me get better at building software.
+Books, blogs, papers and podcasts that have influenced and helped me get better at building software.
 
 ### GIT
 
@@ -13,3 +13,4 @@ Books, blogs and podcasts that have influenced and helped me get better at build
 - [Fundamentals of distributed systems](http://book.mixu.net/distsys/)
 - [Aphr's blog](https://aphyr.com/tags/Distributed-Systems)
 - [Distributed systems for the young bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
+- [Paper - Why do computers stop..? - Expalins availability](http://www.hpl.hp.com/techreports/tandem/TR-85.7.pdf)
