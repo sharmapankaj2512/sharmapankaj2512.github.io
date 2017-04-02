@@ -16,6 +16,7 @@ Books, blogs, papers and podcasts that have influenced and helped me get better 
 
 #### Blogs
 - [Distributed systems for the young bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
+- [Resources on how various companies handle scalability](http://highscalability.com/)
 - [All things distributed](http://www.allthingsdistributed.com/)
 - [Aphr's blog](https://aphyr.com/tags/Distributed-Systems)
 
