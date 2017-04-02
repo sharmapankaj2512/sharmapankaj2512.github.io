@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Credits
+title: Up and running using jekyll and github pages
 published: true
 ---
 
