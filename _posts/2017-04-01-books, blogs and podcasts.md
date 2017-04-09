@@ -4,7 +4,7 @@ published: true
 
 Books, blogs, papers and podcasts that have influenced and helped me get better at building software.
 
-### GIT
+### Git
 
 #### Blogs
 - [The Git parable - understanding GIT inside out](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
@@ -23,5 +23,5 @@ Books, blogs, papers and podcasts that have influenced and helped me get better 
 #### Papers
 - [Paper - Why do computers stop..? - Expalins High Availability](http://www.hpl.hp.com/techreports/tandem/TR-85.7.pdf)
 
-### NO-SQL
+### No-sql
 - [nosql-database.org - Birds view of various NoSql databases](http://nosql-database.org/)
