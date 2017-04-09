@@ -22,3 +22,6 @@ Books, blogs, papers and podcasts that have influenced and helped me get better 
 
 #### Papers
 - [Paper - Why do computers stop..? - Expalins High Availability](http://www.hpl.hp.com/techreports/tandem/TR-85.7.pdf)
+
+### NO-SQL
+- [nosql-database.org - Birds view of various NoSql databases](http://nosql-database.org/)
