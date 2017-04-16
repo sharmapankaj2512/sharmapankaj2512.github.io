@@ -33,5 +33,6 @@ Here presenting a personalised reading list that includes books, blogs, papers a
 - [Cloud Applications Part 2](https://www.coursera.org/learn/cloud-applications-part2)
 
 ### No-sql
+- [Daniel - Why ACID is hard to scale - NoSql in reality is NoACID](http://dbmsmusings.blogspot.in/2010/08/problems-with-acid-and-how-to-fix-them.html)
 - [nosql-database.org - Birds view of various NoSql databases](http://nosql-database.org/)
 - [Aphyr Mongodb](https://aphyr.com/tags/MongoDB)
