@@ -7,7 +7,7 @@ Databases now a days have become a problem of plenty. Relational, key-value, doc
 
 I have always found this task of choosing the right database a bit dauting. One approach that I always employ is to narrow down on a set of database features that the microservice would need. Since we are talking about a microservice it should be relatively easier to come with such a list.
 
-From time and again I have noticed that the feature set that I have narrowed down on is a subset of questions shared below. Note that this is not a comprehensive questionaire, rather it is meant to act more as checklist to set your tone.
+From time and again I have noticed that the feature set that I have narrowed down on is a subset of questions shared below. Note that this is not a comprehensive questionaire and I am keeping CAP theorem out of picture for now, rather it is meant to act more as checklist to set the tone of your discussion.
 
 Structure - it is important to figure out upfront how the data would be stored/accessed
 Scalability - is it really required?
