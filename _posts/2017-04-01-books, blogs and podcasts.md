@@ -2,7 +2,7 @@
 published: true
 ---
 
-Many times I have ran into situations where my seniors mentioned something cool but had no relevant resources to share. I spent hours googling and jumping between resources, only a handful of times my curiosity was satisfied.
+Many times I have ran into situations where my seniors mentioned something cool but had no relevant resources to share. I spent hours googling and jumping between resources and after a lot of toil only a handful of times my curiosity was satisfied.
 
 Here presenting a personalised reading list that includes books, blogs, papers and podcasts that have influenced and helped me get better at building software.
 
