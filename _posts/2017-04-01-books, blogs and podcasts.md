@@ -2,7 +2,7 @@
 published: true
 ---
 
-Here presenting a personalised reading list that includes books, blogs, papers and podcasts that have influenced and helped me get better at building software.
+Here presenting my personalised reading list that includes books, blogs, papers and podcasts that have influenced and helped me get better at building software.
 
 
 ### Git
