@@ -3,5 +3,5 @@ published: false
 ---
 ## Questions to be asked while choosing a database
 
-Databases - a problem of plenty. Postgres, Dynamodb, Cassandra, Mongodb etc just too many to choose from.
+Databases now days have become a problem of plenty. Relational, Key-Value stores, document store, DHT etc just too many to choose from. With microservices now becoming main stream it is even more important to choose the right database for the right job. I have always found this task of choosing the right database a bit dauting.
 
