@@ -19,10 +19,10 @@ Here presenting a personalised reading list that includes books, blogs, papers a
 
 #### Blogs
 - [Distributed systems for the young bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
-- [Resources on how various companies handle scalability](http://highscalability.com/)
-- [All things distributed](http://www.allthingsdistributed.com/)
-- [Aphr's blog](https://aphyr.com/tags/Distributed-Systems)
 - [Mark Burgess CAP Theorem](http://markburgess.org/blog_cap.html)
+- [Resources on how various companies handle scalability](http://highscalability.com/)
+- [Aphr's blog](https://aphyr.com/tags/Distributed-Systems)
+- [All things distributed](http://www.allthingsdistributed.com/)
 
 #### Papers
 - [Paper - Why do computers stop..? - Expalins High Availability](http://www.hpl.hp.com/techreports/tandem/TR-85.7.pdf)
