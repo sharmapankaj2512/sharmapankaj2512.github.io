@@ -19,7 +19,7 @@ Here presenting a personalised reading list that includes books, blogs, papers a
 
 #### Blogs
 - [Distributed systems for the young bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
-- [Mark Burgess CAP Theorem](http://markburgess.org/blog_cap.html)
+- [Mark Burgess - CAP Theorem](http://markburgess.org/blog_cap.html)
 - [Resources on how various companies handle scalability](http://highscalability.com/)
 - [Aphr's blog](https://aphyr.com/tags/Distributed-Systems)
 - [All things distributed](http://www.allthingsdistributed.com/)
