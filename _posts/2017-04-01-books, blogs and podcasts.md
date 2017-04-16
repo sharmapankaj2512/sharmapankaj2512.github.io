@@ -25,7 +25,7 @@ Books, blogs, papers and podcasts that have influenced and helped me get better 
 - [BASE Ebay](http://delivery.acm.org/10.1145/1400000/1394128/p48-pritchett.pdf?ip=219.91.210.224&id=1394128&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=924502566&CFTOKEN=51181461&__acm__=1492319790_c06fb3412b724b6ca63b280a4ca63def)
 
 #### Coursera
-- [Cloud Application Part 2](https://www.coursera.org/learn/cloud-applications-part2)
+- [Cloud Applications Part 2](https://www.coursera.org/learn/cloud-applications-part2)
 
 ### No-sql
 - [nosql-database.org - Birds view of various NoSql databases](http://nosql-database.org/)
