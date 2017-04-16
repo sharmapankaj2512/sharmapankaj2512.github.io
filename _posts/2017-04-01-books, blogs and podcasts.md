@@ -2,8 +2,6 @@
 published: true
 ---
 
-Many times I have ran into situations where my seniors mentioned something cool but had no relevant learning resources to share. I had to spend hours googling and jumping between articles. So much of toil and only a handful of times I felt sated.
-
 Here presenting a personalised reading list that includes books, blogs, papers and podcasts that have influenced and helped me get better at building software.
 
 
