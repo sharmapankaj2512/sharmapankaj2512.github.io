@@ -2,7 +2,10 @@
 published: true
 ---
 
-Books, blogs, papers and podcasts that have influenced and helped me get better at building software.
+Many times I have ran into situations where my seniors mentioned something new but had no relevant resources to share. I spent hours googling and jumping between resources but only a handful of times my curiosity was satisfied.
+
+Here presenting personalised reading list that includes books, blogs, papers and podcasts that have influenced and helped me get better at building software.
+
 
 ### Git
 
