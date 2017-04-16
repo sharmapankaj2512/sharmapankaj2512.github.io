@@ -9,4 +9,13 @@ I have always found this task of choosing the right database a bit dauting. One 
 
 From time and again I have noticed that the feature set that I have narrowed down on is a subset of questions shared below. Note that this is not a comprehensive questionaire, rather it is meant to act more as checklist to set your tone.
 
+Structure - it is important to figure out upfront how the data would be stored/accessed
+Scalability - is it really required?
+Consitency - is it ok if stale data is served to end user?
+Transactions - many databases out there that support distributed transactions
+Indexing - not all databases support indexing
+Joins - not all databases support joins
+Query-ability - how easy it is to query?
+Low-latency - 
 
+Do remember choosing a database that offers strong gaurantees can potentially increase latency.
