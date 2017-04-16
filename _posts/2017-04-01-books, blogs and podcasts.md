@@ -19,6 +19,7 @@ Books, blogs, papers and podcasts that have influenced and helped me get better 
 - [Resources on how various companies handle scalability](http://highscalability.com/)
 - [All things distributed](http://www.allthingsdistributed.com/)
 - [Aphr's blog](https://aphyr.com/tags/Distributed-Systems)
+- [Mark Burgess CAP Theorem](http://markburgess.org/blog_cap.html)
 
 #### Papers
 - [Paper - Why do computers stop..? - Expalins High Availability](http://www.hpl.hp.com/techreports/tandem/TR-85.7.pdf)
