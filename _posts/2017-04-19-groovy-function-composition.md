@@ -17,30 +17,12 @@ def foobar_ = this.&bar << this.&foo
 def barfoo = this.&bar >> this.&foo
 def barfoo_ = this.&foo << this.&bar
 ```
-#### Usage
+#### Test Drive
 
 ```
-println foobar("")
-println barfoo("")
-```
+println foobar("")  // foobar
+println barfoo("")  // barfoo
 
-#### Output:
-
-```
-foobar
-barfoo
-```
-
-#### Usage
-
-```
-println foobar("") == foobar_("")
-println barfoo("") == barfoo_("")
-```
-
-#### Output:
-
-```
-true
-true
+println foobar("") == foobar_("") // true
+println barfoo("") == barfoo_("") // true
 ```
