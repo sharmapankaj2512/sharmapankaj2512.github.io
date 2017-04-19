@@ -2,8 +2,6 @@
 published: true
 ---
 
-### Groovy Function Composition
-
 In groovy, ```left shift (<<)``` and ```right shift (>>)``` operators are used to achieve function composition. 
 
 Difference between the two is that with ```right shift (>>)``` data flows from top to bottom whereas with ```left shift (<<)``` 
