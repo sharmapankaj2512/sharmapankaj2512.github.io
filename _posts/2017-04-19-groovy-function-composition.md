@@ -5,7 +5,7 @@ published: true
 In groovy, ```left shift (<<)``` and ```right shift (>>)``` operators are used to achieve function composition. 
 
 Difference between the two is that with ```right shift (>>)``` data flows from top to bottom whereas with ```left shift (<<)``` 
-data flow from bottom to top.
+data flows from bottom to top.
 
 ```
 def foo(t) { t + "foo" }
