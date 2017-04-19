@@ -1,3 +1,7 @@
+---
+published: true
+---
+
 ### Groovy function composition
 
 In groovy, ```left shift (<<)``` and ```right shift (>>)``` operators are used to achieve function composition. 
