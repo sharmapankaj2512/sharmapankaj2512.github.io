@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 Yes I know, already enough has been said and written about this topic :)
 
 Fortunately, I have got opportunities to work with both static (C#, Java) and dynamic (Python, Groovy) languages. And after my first hand experience with these different languages, I have transitioned from being a hard core static language evangelist to be a more pragmatic developer. Now I am convinved that we need both and it is just about choosing the right one to get the job done cleanly.
