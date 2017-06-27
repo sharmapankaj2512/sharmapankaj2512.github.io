@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Go - FizzBuzz
 
@@ -24,4 +24,3 @@ func fizzBuzz(i int) interface{} {
 	return result
 }
 ```
-
