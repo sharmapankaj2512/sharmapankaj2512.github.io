@@ -38,3 +38,7 @@ Here presenting my personalised reading list that includes books, blogs, papers 
 ### Software Practices
 
 - [97 things every programmer should know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/en/index.html)
+
+### Learn a new language
+
+- Exercism is a great platform that makes learning languages fun (http://exercism.io/)
