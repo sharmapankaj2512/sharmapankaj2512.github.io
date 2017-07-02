@@ -41,4 +41,4 @@ Here presenting my personalised reading list that includes books, blogs, papers 
 
 ### Learn a new language
 
-- Exercism is a great platform that makes learning languages fun (http://exercism.io/)
+- [Exercism is a great platform that makes learning languages fun] (http://exercism.io/)
