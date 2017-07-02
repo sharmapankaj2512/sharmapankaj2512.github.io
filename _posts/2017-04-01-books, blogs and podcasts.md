@@ -34,3 +34,7 @@ Here presenting my personalised reading list that includes books, blogs, papers 
 - [Daniel - Why ACID is hard to scale - NoSql in reality is NoACID](http://dbmsmusings.blogspot.in/2010/08/problems-with-acid-and-how-to-fix-them.html)
 - [nosql-database.org - Birds view of various NoSql databases](http://nosql-database.org/)
 - [Aphyr Mongodb](https://aphyr.com/tags/MongoDB)
+
+### Software Practices
+
+- [97 things every programmer should know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/en/index.html)
